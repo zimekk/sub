@@ -1,0 +1,18 @@
+version: "3.4"
+services:
+  app:
+    build:
+      target: dev
+    volumes:
+      # - .:/app
+      - ./build:/app/build
+      - ./src:/app/src
+    # environment:
+    #   - NODE_ENV=development
+    # volumes:
+    #   - .:/app
+    # command: nodemon src/server
+    # command: yarn -v
+    # command: node_modules/.bin/nodemon -v
+    # command: node_modules/.bin/browserslist
+    # command: webpack --output-path=build

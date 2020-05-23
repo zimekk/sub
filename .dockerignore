@@ -1,0 +1,9 @@
+# *.log
+# dist
+# node_modules
+*
+# !public/
+!src/
+!package.json
+!webpack.config.js
+!yarn.lock

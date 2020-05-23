@@ -1,0 +1,10 @@
+version: "3.4"
+services:
+  app:
+    build:
+      target: dev
+    volumes:
+      # - .:/app
+      - ./build:/app/build
+      - ./src:/app/src
+    command: yarn build
