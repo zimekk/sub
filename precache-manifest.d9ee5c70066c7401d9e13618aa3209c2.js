@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9b5664d47a09eeb67df7cc34d7260fd",
+    "revision": "65cfd3122b9ed0704502c0bda91f8683",
     "url": "./index.html"
   },
   {
-    "revision": "8474e957e8d57d85a80d",
-    "url": "./static/css/main.8d5fa32e.chunk.css"
+    "revision": "61c2008ae5941f093803",
+    "url": "./static/css/main.3dc0129e.chunk.css"
   },
   {
-    "revision": "e5cc043241fb36292b95",
-    "url": "./static/js/2.01cf2e3b.chunk.js"
+    "revision": "110f67e62067a129d02e",
+    "url": "./static/js/2.cae43ca3.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "./static/js/2.01cf2e3b.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.cae43ca3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8474e957e8d57d85a80d",
-    "url": "./static/js/main.2dd394d0.chunk.js"
+    "revision": "61c2008ae5941f093803",
+    "url": "./static/js/main.627e2df9.chunk.js"
   },
   {
     "revision": "8ad4deb8e2d20c269e27",
@@ -60,14 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Florence-feature.3a5c5713.jpg"
   },
   {
-    "revision": "964296ffe4e8d3d30d9ab67f82413ab0",
-    "url": "./static/media/I_II_linia nazwy stacji 2019.964296ff.png"
-  },
-  {
-    "revision": "37bd0cfdb7d3ca11de0289ceb9524b38",
-    "url": "./static/media/I_II_linia07-2019.37bd0cfd.png"
-  },
-  {
     "revision": "ac2f296408b05c693cea5f3a4b84d7cb",
     "url": "./static/media/Italy_map_with_provinces.ac2f2964.svg"
   },
@@ -86,34 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d7ea8f017273da5b96a5b2fb0ff70b06",
     "url": "./static/media/dome-541170_1280.d7ea8f01.jpg"
-  },
-  {
-    "revision": "261976a61874dee42a916e469f42296e",
-    "url": "./static/media/florencja.261976a6.jpeg"
-  },
-  {
-    "revision": "a53abe372a15072665a21a23f9223602",
-    "url": "./static/media/italy.a53abe37.jpeg"
-  },
-  {
-    "revision": "0bd1a880339a3a3b735a277e9695bcfa",
-    "url": "./static/media/m_targowek.0bd1a880.png"
-  },
-  {
-    "revision": "21aab793acb60f640f88e4220fcbd74f",
-    "url": "./static/media/m_trocka.21aab793.png"
-  },
-  {
-    "revision": "819bb7d7120339ddec02038545cce7a5",
-    "url": "./static/media/museo.819bb7d7.jpeg"
-  },
-  {
-    "revision": "844b1d57642d2d790af5be41d9dbb34e",
-    "url": "./static/media/stock-footage-cityscape-of-florence-in-sunset-time-florence-italy.844b1d57.mp4"
-  },
-  {
-    "revision": "8de9485c5168559f83f880ead08bb225",
-    "url": "./static/media/stock-photo-medieval-manhattan-of-tuscany-san-gimignano-in-italy-286056836.8de9485c.jpg"
   },
   {
     "revision": "2fc01aeba78bfeeb4eacb0817e635284",
