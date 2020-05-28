@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.3dc0129e.chunk.css",
-    "main.js": "./static/js/main.627e2df9.chunk.js",
-    "main.js.map": "./static/js/main.627e2df9.chunk.js.map",
+    "main.js": "./static/js/main.0ed6db70.chunk.js",
+    "main.js.map": "./static/js/main.0ed6db70.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.91d7bd2b.js",
     "runtime-main.js.map": "./static/js/runtime-main.91d7bd2b.js.map",
-    "static/js/2.cae43ca3.chunk.js": "./static/js/2.cae43ca3.chunk.js",
-    "static/js/2.cae43ca3.chunk.js.map": "./static/js/2.cae43ca3.chunk.js.map",
+    "static/js/2.34ad5d52.chunk.js": "./static/js/2.34ad5d52.chunk.js",
+    "static/js/2.34ad5d52.chunk.js.map": "./static/js/2.34ad5d52.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d9ee5c70066c7401d9e13618aa3209c2.js": "./precache-manifest.d9ee5c70066c7401d9e13618aa3209c2.js",
+    "precache-manifest.a07ced3a8f743b83ef12959e8336da88.js": "./precache-manifest.a07ced3a8f743b83ef12959e8336da88.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.3dc0129e.chunk.css.map": "./static/css/main.3dc0129e.chunk.css.map",
-    "static/js/2.cae43ca3.chunk.js.LICENSE.txt": "./static/js/2.cae43ca3.chunk.js.LICENSE.txt",
+    "static/js/2.34ad5d52.chunk.js.LICENSE.txt": "./static/js/2.34ad5d52.chunk.js.LICENSE.txt",
     "static/media/71A0840-Modifica.jpg": "./static/media/71A0840-Modifica.f4a1658d.jpg",
     "static/media/71A4806.jpg": "./static/media/71A4806.bfd58c00.jpg",
     "static/media/Best-Airbnbs-in-Florence.jpg": "./static/media/Best-Airbnbs-in-Florence.4e30ef26.jpg",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.91d7bd2b.js",
-    "static/js/2.cae43ca3.chunk.js",
+    "static/js/2.34ad5d52.chunk.js",
     "static/css/main.3dc0129e.chunk.css",
-    "static/js/main.627e2df9.chunk.js"
+    "static/js/main.0ed6db70.chunk.js"
   ]
 }
