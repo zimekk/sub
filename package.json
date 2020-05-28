@@ -15,21 +15,19 @@
   },
   "husky": {
     "hooks": {
+      "update": "yarn upgrade-interactive --latest",
       "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx,md,html,css}": "prettier --write"
+    "*.{js,json,md,html,scss}": "prettier --write"
   },
   "scripts": {
     "start": "node src/server",
-    "dev--": "ls -la node_modules/.bin && browserlist && nodemon src/server",
     "dev": "nodemon --watch src/server src/server",
-    "dev-": "nodemon -e js,jsx --ignore lib --ignore dist --watch src/server --exec babel-node src/server",
     "build": "webpack --output-path=build",
     "predeploy": "yarn build",
-    "deploy": "scp -r dist/* root@makarewicz.eu:/var/www/subs/",
-    "update": "yarn upgrade-interactive --latest"
+    "deploy": "scp -r dist/* root@makarewicz.eu:/var/www/subs/"
   },
   "dependencies": {
     "@apollo/client": "^3.0.0-beta.50",
