@@ -1,5 +1,6 @@
 FROM node:10.18-slim AS dependencies
 WORKDIR /app
+# https://www.docker.com/blog/keep-nodejs-rockin-in-docker/
 ENV NODE_ENV development
 ADD package.json webpack.config.js yarn.lock ./
 RUN yarn
