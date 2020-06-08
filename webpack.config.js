@@ -18,7 +18,7 @@ module.exports = {
     main: ["webpack-hot-middleware/client", "./src/index.js"],
   },
   output: {
-    publicPath: "/",
+    publicPath: "",
   },
   module: {
     rules: [
@@ -37,7 +37,6 @@ module.exports = {
       //     ...(!api.env("production") && { plugins: ["react-refresh/babel"] }),
       //   };
       // };
-      
 
       // {
       //   test: /\.(js|jsx)$/,
