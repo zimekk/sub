@@ -1,14 +1,17 @@
 # dev
+
 ```sh
 $ docker-compose up --build
 ```
 
 # prod
+
 ```sh
 $ docker-compose -f docker-compose.yml up --build
 ```
 
 # deploy
+
 ```sh
 $ docker-compose -f docker-compose.yml -f docker-compose.deploy.yml up
 ```
@@ -48,27 +51,28 @@ Healer UI Kit
 https://ui8.net/no13/products/healer
 100 Days of Josef Muller-Brockmann
 https://pl.pinterest.com/pin/137148751127135622/
-+ 2019 goals - typography, graphicdesign - thefalconking
-https://pl.pinterest.com/pin/35254809569473386/
-+ Photography Poster Design Project Graphic Design Inspiration
-https://pl.pinterest.com/pin/336995984621312036/
-Branding and Campaign for AND Film Festival
-https://pl.pinterest.com/pin/572379433894309558/
-+ Build a iCandy Website For Beginners - Web Design iCandy
-https://pl.pinterest.com/pin/626211523158542042/
-18 Rules for Using Text #infographic
-https://pl.pinterest.com/pin/524528687826038047/
-10 Great Web Font Combinations | Stepto & Son Graphic Design
-https://pl.pinterest.com/pin/158963061828182636/
-Food Delivery app - UX/UI Design Project
-https://pl.pinterest.com/pin/521150988113912844/
-Bookling Mobile App UI, UX and Animation
-https://pl.pinterest.com/pin/193303008993968272/
-Amazing Websites Designs
-https://pl.pinterest.com/pin/722687071444438510/
-This helped alt when I tried linux out
-https://pl.pinterest.com/pin/322218548332394410/
-https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/
+
+- 2019 goals - typography, graphicdesign - thefalconking
+  https://pl.pinterest.com/pin/35254809569473386/
+- Photography Poster Design Project Graphic Design Inspiration
+  https://pl.pinterest.com/pin/336995984621312036/
+  Branding and Campaign for AND Film Festival
+  https://pl.pinterest.com/pin/572379433894309558/
+- Build a iCandy Website For Beginners - Web Design iCandy
+  https://pl.pinterest.com/pin/626211523158542042/
+  18 Rules for Using Text #infographic
+  https://pl.pinterest.com/pin/524528687826038047/
+  10 Great Web Font Combinations | Stepto & Son Graphic Design
+  https://pl.pinterest.com/pin/158963061828182636/
+  Food Delivery app - UX/UI Design Project
+  https://pl.pinterest.com/pin/521150988113912844/
+  Bookling Mobile App UI, UX and Animation
+  https://pl.pinterest.com/pin/193303008993968272/
+  Amazing Websites Designs
+  https://pl.pinterest.com/pin/722687071444438510/
+  This helped alt when I tried linux out
+  https://pl.pinterest.com/pin/322218548332394410/
+  https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/
 
 https://www.jonesaroundtheworld.com/best-airbnbs-in-florence-italy/
 
@@ -76,8 +80,10 @@ https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/
 
 https://rhinocameragear.com/
 
-
 https://mastery.games/post/state-machines-in-react/
 https://dribbble.com/vilemries/projects/383383-Citadela
 http://citadela.io/rome.html?city=rome
 https://github.com/davidkpiano/xstate/issues/413
+
+Literal Radio Buttons
+https://codepen.io/jkantner/pen/PoPvoGK
