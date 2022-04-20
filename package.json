@@ -39,7 +39,7 @@
     "@babel/preset-env": "^7.13.15",
     "@babel/preset-react": "^7.13.13",
     "babel-loader": "^8.2.2",
-    "convict": "^6.0.1",
+    "convict": "^6.2.2",
     "express": "^4.17.1",
     "graphql-yoga": "^1.18.3",
     "history": "^4.10.1",
